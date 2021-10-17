@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-let app = require('./Server/Config/app');
+let app = require('./Config/app');
 let debug = require('debug')('assignment-portfolio-sb:server');
 let http = require('http');
 
