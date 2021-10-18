@@ -1,7 +1,7 @@
 /*
-* Author     : Sindhu Binil
-* Date       : October 17, 2021
-* Description: First Portfolio Project
+* Author     : Tom Tsiliopoulos
+* Date       : September 20, 2021
+* Description: Demo Project for COMP229-F2021-Lesson3
 */
 
 import createError from 'http-errors';
